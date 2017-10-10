@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jim/.android/build-cache/8e470a18932f527aa18f4f85148148f5ca0b6d41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/jim/code/java/Bush/app/build/intermediates/pre-dexed/debug/classes_07d87d78346218a8a5d728b35378b4e055c7e319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jim/.android/build-cache/9310512feb30410a2a37e13df4fda042c719763d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/jim/code/java/Bush/app/build/intermediates/pre-dexed/debug/classes_e98d319a14b3a4d9d7ce467219aa3089688fcb81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jim/.android/build-cache/14664a0d7cd290e1a3e3d70162d37a27745d167a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/jim/code/java/Bush/app/build/intermediates/pre-dexed/debug/classes_827d67ad5ca508b5583a23913ee1503c20fe3b75.jar" />
+    </item>
+
+</items>
